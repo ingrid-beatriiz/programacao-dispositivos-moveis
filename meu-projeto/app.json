@@ -43,6 +43,19 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "02c1d163-2457-482c-8e29-945a3912ffb5"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/02c1d163-2457-482c-8e29-945a3912ffb5"
+    },
+    "owner": "ingrid-beatriz"
   }
 }
